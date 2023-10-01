@@ -1,0 +1,7 @@
+10/01/23
+Successfully requested orbit account at COSMOS website
+Waiting for approval from Orbit to setup my ssh profile with my RSA key pairs.
+
+Read through Testbed Workflow
+Next steps once account gets approved:
+Follow tutorial to setup testbed, including GUI access
